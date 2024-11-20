@@ -88,23 +88,26 @@ Body (JSON):
 
 ## Projectstructuur
 .
-├── app/  
-│   ├── api/  
-│   │   ├── addFilms/  
-│   │   │   └── route.ts  
-│   │   ├── deleteFilms/  
-│   │   │   └── route.ts  
-│   │   ├── getFilms/  
-│   │   │   └── route.ts  
-│   │   └── updateFilms/  
-│   │       └── route.ts  
-│   ├── addFilm.tsx  
-│   ├── deleteFilm.tsx  
-│   ├── updateFilm.tsx  
-│   └── page.tsx  
-├── lib/  
-│   └── mongodb.ts  
-├── .env.local  
-├── package.json  
-├── README.md  
-└── tsconfig.json
+├── app/
+│   ├── api/
+│   │   ├── addFilms/
+│   │   ├── deleteFilms/
+│   │   ├── getFilms/
+│   │   └── updateFilms/
+│   └── fonts/
+├── lib/
+│   └── mongodb.ts
+├── node_modules/
+├── public/  
+├── .env.local
+├── .eslintrc.json
+├── .gitattributes
+├── .gitignore
+├── global.d.ts
+├── next-env.d.ts
+├── next-config.ts
+├── package-lock.json
+├── package.json
+├── README.md
+├── tsconfig.json
+└── types.ts
