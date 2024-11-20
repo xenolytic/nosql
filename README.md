@@ -1,4 +1,4 @@
-# Films Database Project
+# NOSQL opdracht
 
 Dit project is een eenvoudige filmdatabase-applicatie die gebruik maakt van Next.js en MongoDB. De applicatie stelt gebruikers in staat om films toe te voegen, bij te werken, te verwijderen en te zoeken op titel, genre en acteur.
 
