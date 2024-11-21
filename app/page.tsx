@@ -1,4 +1,4 @@
-"use client";
+w"use client";
 
 import { useEffect, useState } from 'react';
 import { Film } from '../types';
